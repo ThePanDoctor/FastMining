@@ -1,0 +1,11 @@
+Mods:{
+    FastMining:{
+        ItemName:{
+            VeryFastMining:"Minere Bem Rápido"
+        }
+
+        ItemTooltip:{
+            VeryFasMining:"Faz você minerar bem rápido"
+        }
+    }
+}

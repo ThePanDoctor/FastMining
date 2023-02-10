@@ -1,0 +1,3 @@
+displayName = Fast Mining
+author = ThePanDoctor
+version = 0.1
